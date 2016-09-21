@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELearning", "ELearning\ELearning.csproj", "{EE249FF8-9AF9-4AE5-AE4A-8A25D3B1F3FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELearning.VO", "ELearning.VO\ELearning.VO.csproj", "{438F43DD-718E-4EA6-8397-3B3587548E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELearning.BO", "ELearning.BO\ELearning.BO.csproj", "{AD0D2367-D281-4DFD-B2FF-D58CF93CCA2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE249FF8-9AF9-4AE5-AE4A-8A25D3B1F3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE249FF8-9AF9-4AE5-AE4A-8A25D3B1F3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE249FF8-9AF9-4AE5-AE4A-8A25D3B1F3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE249FF8-9AF9-4AE5-AE4A-8A25D3B1F3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438F43DD-718E-4EA6-8397-3B3587548E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438F43DD-718E-4EA6-8397-3B3587548E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438F43DD-718E-4EA6-8397-3B3587548E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438F43DD-718E-4EA6-8397-3B3587548E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0D2367-D281-4DFD-B2FF-D58CF93CCA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0D2367-D281-4DFD-B2FF-D58CF93CCA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0D2367-D281-4DFD-B2FF-D58CF93CCA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0D2367-D281-4DFD-B2FF-D58CF93CCA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
